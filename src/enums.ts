@@ -1,0 +1,5 @@
+enum AuthError{
+    WRONG_CREDS,
+    INTERNAL_SERVER_ERROR,
+    EXPIRED_SESSION
+}
